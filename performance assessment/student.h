@@ -1,4 +1,4 @@
-// studnet.h - student class definition
+// student.h - student class definition
 #pragma once
 #include <string>
 #include <iostream>

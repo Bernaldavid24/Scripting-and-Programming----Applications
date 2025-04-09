@@ -110,7 +110,7 @@ void Roster::remove(string studentID) {
             lastIndex--;
             found = true;
             cout << "Student " << studentID << " was removed." << endl;
-            break; // exit the loopp
+            break; // exit the loop
         }
     }
     
