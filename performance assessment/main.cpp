@@ -6,9 +6,9 @@ using namespace std;
 
 int main() {
     // print my info
-    cout << "Course Title: Scripting and Programming - Applications - C867" << endl;
+    cout << "Course Title: Scripting and Programming - Applications" << endl;
     cout << "Programming Language: C++" << endl;
-    cout << "WGU Student ID: 012266480" << endl;  // my ID placed here
+    cout << "WGU Student ID: ******" << endl;  // my ID placed here
     cout << "Name: David Bernal" << endl << endl;  // my info placed here
     
     // student data from the table with my info in the last entry
